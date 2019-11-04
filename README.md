@@ -1,1 +1,1 @@
-Data Incubator project which makes predictions of betting lines of NBA Games. An exploratory analysis is included.
+Data Incubator project which makes predictions of betting lines of NBA Games. An exploratory analysis is included. The stats are scraped from stats.nba.com. nba_stats.py is the script for web scraping.
